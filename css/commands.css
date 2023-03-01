@@ -4,12 +4,12 @@
 	box-sizing: border-box;
 }
 :root {
-	--descreption-color: #000000;
-	--main-color: #8c8eff;
-	--seacondry-color: #8c8eff;
+	--descreption-color: rgb(207, 207, 207);
+	--main-color: #4856ee;
+	--seacondry-color: #626ffd;
 	--discord-color: #5865f2;
-	--background-main-color: #2f2f2f:
-	--card-background: #2f2f2f;
+	--background-main-color: #212529;
+	--card-background: #2a2d31;
 }
 
 .badge-vip{
@@ -19,12 +19,12 @@
 body {
 	background: var(--background-main-color);
 	border-radius: 5px;
-	color: #2f2f2f;
+	color: #ffffff;
 	letter-spacing: 0.5px;
 }
 
 nav {
-	animation: topToDown 0.5s ease-in;
+	animation: topToDown 1.5s ease-in;
 }
 
 .active {
@@ -124,7 +124,7 @@ hr {
 	outline: none;
 	border: none;
 	border-radius: 20px;
-	color: #2f2f2f;
+	color: #ffffff;
 	padding: 10px 22px;
 	border: 2px solid #2f2f30;
 }
@@ -145,7 +145,7 @@ hr {
 .accordion-button:focus,
 .accordion-button:active {
 	background-color: #212c42 !important;
-	color: #2f2f2f !important;
+	color: #ffffff !important;
 }
 
 .accordion-button:focus {
