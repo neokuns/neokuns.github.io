@@ -124,7 +124,7 @@ hr {
 	outline: none;
 	border: none;
 	border-radius: 20px;
-	color: #ffffff;
+	color: #2f2f2f;
 	padding: 10px 22px;
 	border: 2px solid #2f2f30;
 }
@@ -145,7 +145,7 @@ hr {
 .accordion-button:focus,
 .accordion-button:active {
 	background-color: #212c42 !important;
-	color: #ffffff !important;
+	color: #2f2f2f !important;
 }
 
 .accordion-button:focus {
