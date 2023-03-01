@@ -7,17 +7,15 @@
 
 </br>
 </div>
-<div align="center">an advanced discord bot and focus on economy
+<div align="center">an advanced discord bot with various features ranging from moderation, utilities, fun, mini games, and this bot focuses on the global economy
 </p>
-</br>
-</br>
 </br>
 </br>
 </br>
 </div>
 <p align="center">
-  <a href="">
-    <img width="650" src="https://media.discordapp.net/attachments/1070707881470607360/1080358975964450866/20230227_134549.png" alt="Neovt">
+  <a href="https://discord.com/api/oauth2/authorize?client_id=1080315164252975197&permissions=8&scope=bot%20applications.commands">
+    <img width="160" src="https://raw.githubusercontent.com/mastiio/mastiio.github.io/main/20230301_130910.png" alt="invite">
   
   </br>
   </br>
